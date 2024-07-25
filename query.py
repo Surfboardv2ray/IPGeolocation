@@ -12,7 +12,9 @@ def query_ip_api(input_file, output_file):
             lines = response.text.split('\n')
             if lines[0] == 'success':
                 country_code = lines[2]
-                results.append(f"{ip_address} - {country_code}")
+                result = f"{ip_address} - {country_code}"
+                results.append(result)
+                print(f"Processed {ip_address}: {result}")
             else:
                 print(f"Query failed for IP: {ip_address}")
         except requests.RequestException as e:
