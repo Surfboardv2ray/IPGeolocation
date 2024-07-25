@@ -1,23 +1,30 @@
-import ipaddress
+import requests
 
-def generate_ip_list(input_file, output_file):
+def query_ip_api(input_file, output_file):
     with open(input_file, 'r') as infile:
-        ip_ranges = infile.readlines()
-    
-    ip_list = []
-    for ip_range in ip_ranges:
-        ip_range = ip_range.strip()
+        ip_addresses = infile.readlines()
+
+    results = []
+    for ip_address in ip_addresses:
+        ip_address = ip_address.strip()
         try:
-            ip_network = ipaddress.ip_network(ip_range)
-            ip_list.extend([str(ip) for ip in ip_network.hosts()])
-        except ValueError as e:
-            print(f"Skipping invalid IP range '{ip_range}': {e}")
+            response = requests.get(f'http://ip-api.com/line/{ip_address}')
+            lines = response.text.split('\n')
+            if lines[0] == 'success':
+                country_code = lines[2]
+                result = f"{ip_address} - {country_code}"
+                results.append(result)
+                print(f"Processed {ip_address}: {result}")
+            else:
+                print(f"Query failed for IP: {ip_address}")
+        except requests.RequestException as e:
+            print(f"Request error for IP: {ip_address}: {e}")
 
     with open(output_file, 'w') as outfile:
-        for ip in ip_list:
-            outfile.write(ip + '\n')
+        for result in results:
+            outfile.write(result + '\n')
 
 if __name__ == "__main__":
-    input_file = 'files/ranges.txt'
-    output_file = 'files/iplist.txt'
-    generate_ip_list(input_file, output_file)
+    input_file = 'files/iplist.txt'
+    output_file = 'files/countries.txt'
+    query_ip_api(input_file, output_file)
