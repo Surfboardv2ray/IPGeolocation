@@ -53,3 +53,15 @@ jobs:
         timestamp=$(TZ='Asia/Tehran' date)
         git commit -m "✅List updated ${timestamp}"
         git push
+
+    - name: Separate Local
+      run: python local.py
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add files/local.txt
+        timestamp=$(TZ='Asia/Tehran' date)
+        git commit -m "✅List updated ${timestamp}"
+        git push
