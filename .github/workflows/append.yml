@@ -21,8 +21,9 @@ jobs:
 
     - name: Install dependencies
       run: |
+        > files/iplist.txt
         python -m pip install --upgrade pip
-        pip install ipaddress
+        pip install ipaddress requests
 
     - name: Run IP list generator
       run: python generate_ip_list.py
