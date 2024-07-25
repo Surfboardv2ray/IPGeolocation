@@ -28,7 +28,12 @@ jobs:
     - name: Run IP list generator
       run: python generate_ip_list.py
 
+    - name: Check for Changes
+      id: changes
+      run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
     - name: Commit changes
+      if: steps.changes.outputs.changed == 'true'     
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
