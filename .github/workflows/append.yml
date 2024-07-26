@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'files/ranges.txt'
+      - 'extractip/config.txt'
   workflow_dispatch:
 
 jobs:
