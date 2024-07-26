@@ -52,8 +52,8 @@ jobs:
             git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
             
     - name: Commit changes
-      run: |
       if: steps.changesQ.outputs.changed == 'true'
+      run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add files/countries.txt
@@ -70,8 +70,8 @@ jobs:
             git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
             
     - name: Commit changes
-      run: |
       if: steps.changesL.outputs.changed == 'true'
+      run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add files/local.txt
