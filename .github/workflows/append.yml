@@ -65,3 +65,20 @@ jobs:
         timestamp=$(TZ='Asia/Tehran' date)
         git commit -m "✅List updated ${timestamp}"
         git push
+
+    - name: Run IP Extractor
+      run: python extractip/extract.py
+
+    - name: Check for Changes
+      id: changesex
+      run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
+    - name: Commit changes
+      if: steps.changesex.outputs.changed == 'true'     
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add extractip/ex.txt
+        timestamp=$(TZ='Asia/Tehran' date)
+        git commit -m "✅List updated ${timestamp}"
+        git push
