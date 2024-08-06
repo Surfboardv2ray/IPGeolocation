@@ -5,6 +5,7 @@ on:
     paths:
       - 'rangemaker/singleip.txt'
       - 'rangemaker.py'
+      - '.github/workflows/rangemaker.yml'
   workflow_dispatch:
 
 jobs:
