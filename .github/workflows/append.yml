@@ -5,6 +5,7 @@ on:
     paths:
       - 'files/ranges.txt'
       - 'extractip/config.txt'
+      - 'rangemaker/singleip.txt'
   workflow_dispatch:
 
 jobs:
