@@ -12,7 +12,7 @@ def filter_local_ips(input_file, output_file, country_code="IR"):
     local_ips = []
     for line in lines:
         try:
-            ip_address, code = line.strip().split(" - ")
+            ip_address, code, isp = line.strip().split(" - ")
             if code == country_code:
                 local_ips.append(ip_address)
         except ValueError:
