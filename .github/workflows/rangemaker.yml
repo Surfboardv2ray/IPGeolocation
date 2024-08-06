@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'rangemaker/singleip.txt'
+      - 'rangemaker.py'
   workflow_dispatch:
 
 jobs:
