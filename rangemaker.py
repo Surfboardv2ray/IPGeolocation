@@ -11,7 +11,7 @@ def process_ip(ip):
             ip = socket.gethostbyname(ip.strip())
         parts = ip.strip().split('.')
         if len(parts) == 4 and all(0 <= int(part) <= 255 for part in parts):
-            return f"{parts[0]}.{parts[1]}.{parts[2]}.0/24"
+            return f"{parts[0]}.{parts[1]}.{parts[2]}.0/30"
         else:
             return None
     except socket.gaierror:
