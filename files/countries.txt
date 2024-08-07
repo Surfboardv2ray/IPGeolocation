@@ -1,40 +1,26 @@
-89.47.200.1 - IR - FanAvaran Mihan Mizban PJSC
-89.47.200.2 - IR - FanAvaran Mihan Mizban PJSC
-185.126.2.1 - IR - Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
-185.126.2.2 - IR - Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
-94.182.136.1 - IR - Aria Shatel Company Ltd
-94.182.136.2 - IR - Aria Shatel Company Ltd
-78.109.194.1 - IR - Afranet Co
-78.109.194.2 - IR - Afranet Co
-193.151.145.1 - IR - IR-AT
-193.151.145.2 - IR - IR-AT
-188.212.98.1 - IR - Sefroyek Pardaz Engineering PJSC
-188.212.98.2 - IR - Sefroyek Pardaz Engineering PJSC
-45.131.4.1 - IR - Cloudflare London, LLC
-45.131.4.2 - IR - Cloudflare London, LLC
-89.44.242.1 - IR - Pars Abr Toseeh Ertebatat Company
-89.44.242.2 - IR - Pars Abr Toseeh Ertebatat Company
-85.133.202.1 - IR - FanAvaran Mihan Mizban PJSC
-85.133.202.2 - IR - FanAvaran Mihan Mizban PJSC
-85.9.120.1 - IR - PISHGAMAN
-85.9.120.2 - IR - PISHGAMAN
-79.175.176.1 - IR - AFranet Co
-79.175.176.2 - IR - AFranet Co
-5.57.33.1 - IR - Giti Secure Cloud LLC
-5.57.33.2 - IR - Giti Secure Cloud LLC
-85.198.10.1 - IR - Asre Dadeha Asiatech
-85.198.10.2 - IR - Asre Dadeha Asiatech
-95.38.197.1 - IR - Atrin Information & Communications Technology Company PJS
-95.38.197.2 - IR - Atrin Information & Communications Technology Company PJS
-85.133.195.1 - IR - Mehrdad Roshanaei
-85.133.195.2 - IR - Mehrdad Roshanaei
-193.151.158.1 - IR - IR-AT
-193.151.158.2 - IR - IR-AT
-193.151.132.1 - IR - Asre Dadeha Asiatech
-193.151.132.2 - IR - Asre Dadeha Asiatech
-95.38.200.1 - IR - Respina Networks & Beyond PJSC
-95.38.200.2 - IR - Respina Networks & Beyond PJSC
 2.189.59.1 - IR - Information Technology Company
 2.189.59.2 - IR - Information Technology Company
+185.143.234.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+185.143.234.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+212.33.206.1 - IR - Asiatech Data Transmission company
+212.33.206.2 - IR - Asiatech Data Transmission company
+85.9.108.1 - IR - Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
+85.9.108.2 - IR - Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
 81.12.92.1 - IR - Shabakieh Isfahan Co PJSC
 81.12.92.2 - IR - Shabakieh Isfahan Co PJSC
+79.175.129.1 - IR - AFranet Co
+79.175.129.2 - IR - AFranet Co
+79.132.192.1 - IR - Engineering company Morva System Plc.
+79.132.192.2 - IR - Engineering company Morva System Plc.
+217.219.78.1 - IR - Iran Telecommunication Company PJS
+217.219.78.2 - IR - Iran Telecommunication Company PJS
+31.7.70.1 - IR - Asiatech Data Transmission company
+31.7.70.2 - IR - Asiatech Data Transmission company
+178.239.154.1 - IR - Fannavari Etelaate Samane Kavoshgar Ide Ltd.
+178.239.154.2 - IR - Fannavari Etelaate Samane Kavoshgar Ide Ltd.
+94.182.105.1 - IR - Aria Shatel PJSC
+94.182.105.2 - IR - Aria Shatel PJSC
+95.38.132.1 - IR - Respina Networks & Beyond PJSC
+95.38.132.2 - IR - Respina Networks & Beyond PJSC
+85.133.146.1 - IR - Rasaneh Avabarid Private Joint Stock Company
+85.133.146.2 - IR - Rasaneh Avabarid Private Joint Stock Company
