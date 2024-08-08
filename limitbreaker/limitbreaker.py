@@ -6,7 +6,7 @@ import os
 proxy_counter = 0
 
 # List of addresses to be changed
-addresses_to_change = ["www.speedtest.net", "speedtest.net", "zula.ir", "www.zula.ir"]
+addresses_to_change = ["www.speedtest.net", "speedtest.net", "zula.ir", "www.zula.ir", "parsvds.ir", "www.parsvds.ir"]
 
 def rename_vmess_address(proxy, new_address):
     global proxy_counter
