@@ -74,7 +74,7 @@ def process_proxies(input_file, output_file, new_address):
                 out_f.write(renamed_proxy + '\n')
 
 # Example usage
-input_file = 'limitbreaker/limit.txt'
+input_file = 'limitbreaker/limited.txt'
 output_file = 'limitbreaker/limitbreaker.txt'
 new_address = '108.162.195.238'
 
