@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'limitbreaker/limitbreaker.py'
-      - 'limitbreaker/limit.txt'
+      - 'limitbreaker/limited.txt'
       - '.github/workflows/limitbreaker.yml'
   workflow_dispatch:
 
