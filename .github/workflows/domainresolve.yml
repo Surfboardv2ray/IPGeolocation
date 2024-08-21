@@ -1,0 +1,45 @@
+name: Change all addresses regardless
+
+on:
+  push:
+    paths:
+      - 'domainresolve/domainresolve.py'
+      - 'domainresolve/domain.txt'
+      - '.github/workflows/domainresolve.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        > files/iplist.txt
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Range Maker
+      run: python domainresolve/domainresolve.py
+
+    - name: Check for Changes
+      id: domainresolve
+      run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
+    - name: Commit changes
+      if: steps.domainresolve.outputs.changed == 'true'     
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add domainresolve/ip+domain.txt domainresolve/ip+resolved.txt
+        timestamp=$(TZ='Asia/Tehran' date)
+        git commit -m "✅List updated ${timestamp}"
+        git push
