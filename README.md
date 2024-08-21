@@ -13,7 +13,9 @@
 ### Appender + IP Geolocations
 🧧 Edit [files/ranges.txt](./files/ranges.txt) and put your CDN ranges from step above, get IP Geolocations at `files/countries.txt`.
 
+![0](https://raw.githubusercontent.com/Surfboardv2ray/IPGeolocation/main/.github/media/line.gif)
+
 ### Certain Address Replacer
 🧧 For an extra feature, you could replace certain config addresses as `addresses_to_change` variable in [limitbreaker/limitbreaker.py](./limitbreaker/limitbreaker.py), by putting your configs in [limitbreaker/limited.txt](./limitbreaker/limited.txt). New configs with replaced addresses will be at `limitbreaker/limitbreaker.txt`.
 
-![0](https://raw.githubusercontent.com/Surfboardv2ray/IPGeolocation/main/.github/media/line.gif)
+
