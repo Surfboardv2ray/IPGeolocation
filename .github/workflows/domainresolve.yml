@@ -1,4 +1,4 @@
-name: Change all addresses regardless
+name: Resolve Domains to IP
 
 on:
   push:
@@ -27,7 +27,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run Range Maker
+    - name: Run Resolver
       run: python domainresolve/domainresolve.py
 
     - name: Check for Changes
