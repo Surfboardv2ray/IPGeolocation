@@ -30,20 +30,24 @@ def main():
     resolved_ips = set()
     ip_domain_pairs = set()
 
+    # Load existing IPs and domain-IP pairs, with error handling
     if os.path.exists(ip_resolved_file):
         resolved_ips.update(read_domains(ip_resolved_file))
     if os.path.exists(ip_domain_file):
         existing_pairs = read_domains(ip_domain_file)
         for pair in existing_pairs:
-            _, ip = pair.split(' - ')
-            resolved_ips.add(ip)
+            if ' - ' in pair:
+                _, ip = pair.split(' - ')
+                resolved_ips.add(ip)
 
+    # Resolve domains and store results
     for domain in domains:
         ip = resolve_domain(domain)
         if ip and ip not in resolved_ips:
             resolved_ips.add(ip)
             ip_domain_pairs.add(f'{domain} - {ip}')
 
+    # Write results to files
     write_to_file(ip_resolved_file, resolved_ips, mode='w')
     write_to_file(ip_domain_file, ip_domain_pairs, mode='w')
 
