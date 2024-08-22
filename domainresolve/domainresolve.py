@@ -46,6 +46,11 @@ def main():
         if ip and ip not in resolved_ips:
             resolved_ips.add(ip)
             ip_domain_pairs.add(f'{domain} - {ip}')
+            print(f'Resolved: {domain} -> {ip}')
+        elif ip:
+            print(f'{domain} already resolved to {ip}')
+        else:
+            print(f'Failed to resolve: {domain}')
 
     # Write results to files
     write_to_file(ip_resolved_file, resolved_ips, mode='w')
