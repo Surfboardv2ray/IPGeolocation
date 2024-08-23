@@ -54,8 +54,8 @@ def write_addresses_to_file(addresses, output_file_path):
         print(f"An error occurred while writing to the file: {str(e)}")
 
 def main():
-    input_file_path = 'extractip/config.txt'
-    output_file_path = 'extractip/ex.txt'
+    input_file_path = 'chainreaction/config.txt'
+    output_file_path = 'chainreaction/ex.txt'
 
     unique_addresses = get_unique_addresses(input_file_path)
 
