@@ -1,0 +1,79 @@
+name: Generate IP List
+
+on:
+  push:
+    paths:
+      - 'chainreaction/ranges.txt'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        > chainreaction/iplist.txt
+        python -m pip install --upgrade pip
+        pip install ipaddress requests
+
+    - name: Run IP list generator
+      run: python generate_ip_list.py
+
+    - name: Check for Changes
+      id: changes
+      run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
+    - name: Commit changes
+      if: steps.changes.outputs.changed == 'true'     
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add chainreaction/iplist.txt
+        timestamp=$(TZ='Asia/Tehran' date)
+        git commit -m "✅List updated ${timestamp}"
+        git push
+
+    - name: Run IP query
+      run: python chainreaction/query.py
+      
+    - name: Check for Changes
+      id: changesQ
+      run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
+            
+    - name: Commit changes
+      if: steps.changesQ.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add chainreaction/countries.txt
+        timestamp=$(TZ='Asia/Tehran' date)
+        git commit -m "✅List updated ${timestamp}"
+        git push
+
+    - name: Separate Local
+      run: python chainreaction/local.py
+      
+    - name: Check for Changes
+      id: changesL
+      run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
+            
+    - name: Commit changes
+      if: steps.changesL.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add chainreaction/local.txt
+        timestamp=$(TZ='Asia/Tehran' date)
+        git commit -m "✅List updated ${timestamp}"
+        git push
