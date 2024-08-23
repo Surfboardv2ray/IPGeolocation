@@ -39,7 +39,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add domainresolve/ip+domain.txt domainresolve/ip+resolved.txt
+        git add domainresolve/ip+domain.txt domainresolve/ip+resolved.txt domainresolve/resolved+domain.txt
         timestamp=$(TZ='Asia/Tehran' date)
         git commit -m "✅List updated ${timestamp}"
         git push
