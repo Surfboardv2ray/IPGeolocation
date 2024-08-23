@@ -32,6 +32,6 @@ def query_ip_api(input_file, output_file):
             outfile.write(result + '\n')
 
 if __name__ == "__main__":
-    input_file = 'files/iplist.txt'
-    output_file = 'files/countries.txt'
+    input_file = 'chainreaction/iplist.txt'
+    output_file = 'chainreaction/countries.txt'
     query_ip_api(input_file, output_file)
