@@ -21,7 +21,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        > files/iplist.txt
+        > chainreaction/iplist.txt
         python -m pip install --upgrade pip
         pip install ipaddress requests
 
