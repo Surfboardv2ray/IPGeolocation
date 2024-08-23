@@ -28,6 +28,6 @@ def filter_local_ips(input_file, output_file, country_code="IR"):
         print(f"An error occurred while writing to the file {output_file}: {e}")
 
 if __name__ == "__main__":
-    input_file = 'files/countries.txt'
-    output_file = 'files/local.txt'
+    input_file = 'chainreaction/countries.txt'
+    output_file = 'chainreaction/local.txt'
     filter_local_ips(input_file, output_file)
