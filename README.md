@@ -17,6 +17,8 @@
 ### CHAIN REACTION
 🧧 Adding your configs to [chainreaction/config.txt](./chainreaction/config.txt) will trigger a "Chain Reaction" that will do all the steps above subsequently, with a single effort.
 
+⚠️ BEWARE that Chain Reaction Step 3, or "IP Geolocations" is time taking, so adjust the number of your configs accordingly and avoid unnecessary triggers. Or simply cancel the workflow if you did, by mistake.
+
 ### Certain Address Replacer
 🧧 For an extra feature, you could replace certain config addresses as `addresses_to_change` variable in [limitbreaker/limitbreaker.py](./limitbreaker/limitbreaker.py), by putting your configs in [limitbreaker/limited.txt](./limitbreaker/limited.txt). New configs with replaced addresses will be at `limitbreaker/limitbreaker.txt`.
 
