@@ -1,4 +1,4 @@
-name: Generate IP List
+name: CR3 - Generate IP List
 
 on:
   push:
