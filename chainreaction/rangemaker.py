@@ -27,8 +27,8 @@ def write_ips(filename, ips):
             file.write(ip + "\n")
 
 def main():
-    input_file = 'rangemaker/singleip.txt'
-    output_file = 'rangemaker/exrange.txt'
+    input_file = 'chainreaction/ex.txt'
+    output_file = 'chainreaction/exrange.txt'
     ips = read_ips(input_file)
     processed_ips = set()
     for ip in ips:
