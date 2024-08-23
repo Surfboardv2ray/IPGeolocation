@@ -18,6 +18,6 @@ def generate_ip_list(input_file, output_file):
             outfile.write(ip + '\n')
 
 if __name__ == "__main__":
-    input_file = 'files/ranges.txt'
-    output_file = 'files/iplist.txt'
+    input_file = 'chainreaction/exrange.txt'
+    output_file = 'chainreaction/iplist.txt'
     generate_ip_list(input_file, output_file)
