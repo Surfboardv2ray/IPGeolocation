@@ -24,11 +24,13 @@ def main():
     domain_file = 'domainresolve/domain.txt'
     ip_resolved_file = 'domainresolve/ip+resolved.txt'
     ip_domain_file = 'domainresolve/ip+domain.txt'
+    resolved_domain_file = 'domainresolve/resolved+domain.txt'
 
     domains = read_domains(domain_file)
 
     resolved_ips = set()
     ip_domain_pairs = set()
+    resolved_domains = set()  # To store successfully resolved domains
 
     # Load existing IPs and domain-IP pairs, with error handling
     if os.path.exists(ip_resolved_file):
@@ -46,16 +48,18 @@ def main():
         if ip and ip not in resolved_ips:
             resolved_ips.add(ip)
             ip_domain_pairs.add(f'{domain} - {ip}')
+            resolved_domains.add(domain)  # Add to resolved domains
             print(f'Resolved: {domain} -> {ip}')
         elif ip:
             print(f'{domain} already resolved to {ip}')
+            resolved_domains.add(domain)  # Add to resolved domains
         else:
             print(f'Failed to resolve: {domain}')
 
     # Write results to files
     write_to_file(ip_resolved_file, resolved_ips, mode='w')
     write_to_file(ip_domain_file, ip_domain_pairs, mode='w')
+    write_to_file(resolved_domain_file, resolved_domains, mode='w')  # Write resolved domains
 
 if __name__ == '__main__':
     main()
-
