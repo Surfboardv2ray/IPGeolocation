@@ -1,9 +1,10 @@
 name: CR2 - RangeMaker
 
 on:
-  push:
-    paths:
-      - 'chainreaction/ex.txt'
+  workflow_run:
+    workflows: ["CR1 - Extract IPS"]  # Name of the primary workflow
+    types:
+      - completed  # Trigger only when the primary workflow is completed
   workflow_dispatch:
 
 jobs:
