@@ -1,9 +1,10 @@
 name: CR3 - Generate IP List
 
 on:
-  push:
-    paths:
-      - 'chainreaction/exrange.txt'
+  workflow_run:
+    workflows: ["CR2 - RangeMaker"]  # Name of the primary workflow
+    types:
+      - completed  # Trigger only when the primary workflow is completed
   workflow_dispatch:
 
 jobs:
