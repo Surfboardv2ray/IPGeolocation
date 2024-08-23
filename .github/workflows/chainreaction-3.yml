@@ -3,7 +3,7 @@ name: Generate IP List
 on:
   push:
     paths:
-      - 'chainreaction/ranges.txt'
+      - 'chainreaction/exrange.txt'
   workflow_dispatch:
 
 jobs:
