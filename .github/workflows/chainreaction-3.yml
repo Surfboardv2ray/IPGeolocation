@@ -26,7 +26,7 @@ jobs:
         pip install ipaddress requests
 
     - name: Run IP list generator
-      run: python generate_ip_list.py
+      run: python chainreaction/generate_ip_list.py
 
     - name: Check for Changes
       id: changes
