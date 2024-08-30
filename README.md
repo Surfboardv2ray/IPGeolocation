@@ -15,7 +15,7 @@
 
 ![0](https://raw.githubusercontent.com/Surfboardv2ray/IPGeolocation/main/.github/media/line.gif)
 ### CHAIN REACTION
-🟠 Adding your configs to [chainreaction/config.txt](./chainreaction/config.txt) will trigger a "Chain Reaction" that will do all the steps above subsequently, with a single effort.
+🟠 Adding your configs to [chainreaction/config.txt](./chainreaction/config.txt) will trigger a "Chain Reaction" that will do all the steps above subsequently, with a single effort. (Ranges will be at [chainreaction/exrange.txt](./chainreaction/exrange.txt) )
 
 ⚠️ BEWARE that Chain Reaction Step 3, or "IP Geolocations" is time taking, so adjust the number of your configs accordingly and avoid unnecessary triggers. Or simply cancel the workflow if you did, by mistake.
 
