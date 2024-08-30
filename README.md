@@ -5,13 +5,13 @@
 # STEPS
 
 ### Extract IP
-🧧 Edit [extractip/config.txt](./extractip/config.txt) and put your configs, get your exracted IPs at `exteactip/ex.txt`.
+🟡 Edit [extractip/config.txt](./extractip/config.txt) and put your configs, get your exracted IPs at `exteactip/ex.txt`.
 
 ### Range Maker
-🧧 Edit [rangemaker/singleip.txt](./rangemaker/singleip.txt) and put IPs from step above, get your ranges at `rangemaker/exrange.txt`.
+🟡 Edit [rangemaker/singleip.txt](./rangemaker/singleip.txt) and put IPs from step above, get your ranges at `rangemaker/exrange.txt`.
 
 ### Appender + IP Geolocations
-🧧 Edit [files/ranges.txt](./files/ranges.txt) and put your CDN ranges from step above, get IP Geolocations at `files/countries.txt`.
+🟡 Edit [files/ranges.txt](./files/ranges.txt) and put your CDN ranges from step above, get IP Geolocations at `files/countries.txt`.
 
 ![0](https://raw.githubusercontent.com/Surfboardv2ray/IPGeolocation/main/.github/media/line.gif)
 ### CHAIN REACTION
