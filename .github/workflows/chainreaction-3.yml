@@ -51,7 +51,7 @@ jobs:
       run: |
             git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
             
-    - name: Commit changes
+    - name: Commit changes for Countries
       if: steps.changesQ.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
@@ -59,6 +59,7 @@ jobs:
         git add chainreaction/countries.txt
         timestamp=$(TZ='Asia/Tehran' date)
         git commit -m "✅List updated ${timestamp}"
+        git pull
         git push
 
     - name: Separate Local
@@ -69,7 +70,7 @@ jobs:
       run: |
             git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
             
-    - name: Commit changes
+    - name: Commit changes for Local
       if: steps.changesL.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
