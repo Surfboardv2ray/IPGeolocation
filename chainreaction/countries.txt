@@ -1,90 +1,54 @@
-109.94.165.1 - IR - Respina Networks & Beyond PJSC
-109.94.165.2 - IR - Respina Networks & Beyond PJSC
-185.113.10.1 - IR - Web Gostaran Shaina Shiraz LLC
-185.113.10.2 - IR - Web Gostaran Shaina Shiraz LLC
-193.151.135.1 - IR - Asre Dadeha Asiatech
-193.151.135.2 - IR - Asre Dadeha Asiatech
-95.38.250.1 - IR - FANAVADP
-95.38.250.2 - IR - FANAVADP
-193.151.133.1 - IR - Asre Dadeha Asiatech
-193.151.133.2 - IR - Asre Dadeha Asiatech
-185.143.233.1 - IR - ANYCAST
-185.143.233.2 - IR - ANYCAST
-185.165.205.1 - IR - SIMRA-INFRA
-185.165.205.2 - IR - SIMRA-INFRA
-185.204.181.1 - IR - Ertebatat Sabet Parsian Co. PJS
-185.204.181.2 - IR - Ertebatat Sabet Parsian Co. PJS
-62.60.175.1 - IR - Laser IDC
-62.60.175.2 - IR - Laser IDC
-95.38.202.1 - IR - Respina
-95.38.202.2 - IR - Respina
-193.111.235.1 - IR - Integhal Dadeh Araz Shomal Company PJSC
-193.111.235.2 - IR - Integhal Dadeh Araz Shomal Company PJSC
-89.42.137.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
-89.42.137.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-85.198.9.1 - IR - Asre Dadeha Asiatech
-85.198.9.2 - IR - Asre Dadeha Asiatech
-2.189.175.1 - IR - Nimadd
-2.189.175.2 - IR - Nimadd
-5.160.63.1 - IR - Respina Networks & Beyond PJSC
-5.160.63.2 - IR - Respina Networks & Beyond PJSC
-185.211.59.1 - IR - Mahdiar Rafiee
-185.211.59.2 - IR - Mahdiar Rafiee
-212.80.19.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
-212.80.19.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-178.239.146.1 - IR - TRLCO
-178.239.146.2 - IR - TRLCO
-185.73.0.1 - IR - SHATEL Network
-185.73.0.2 - IR - SHATEL Network
-94.182.131.1 - IR - SHATEL Network
-94.182.131.2 - IR - SHATEL Network
-188.121.118.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-188.121.118.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-2.189.59.1 - IR - Information Technology Company
-2.189.59.2 - IR - Information Technology Company
-92.114.50.1 - IR - Amir Hosein Maaref
-62.60.138.1 - IR - Iranian Research Organization Science & Technology
-62.60.138.2 - IR - Iranian Research Organization Science & Technology
-185.206.95.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-185.206.95.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-85.198.15.1 - IR - Asre Dadeha Asiatech
-85.198.15.2 - IR - Asre Dadeha Asiatech
-94.182.104.1 - IR - SHATEL Network
-94.182.104.2 - IR - SHATEL Network
-193.151.146.1 - IR - IR-AT
-193.151.146.2 - IR - IR-AT
-78.109.194.1 - IR - Afranet Co
-78.109.194.2 - IR - Afranet Co
-89.47.200.1 - IR - FanAvaran Mihan Mizban PJSC
-89.47.200.2 - IR - FanAvaran Mihan Mizban PJSC
-109.201.21.1 - IR - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
-109.201.21.2 - IR - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
-94.182.108.1 - IR - Aria Shatel PJSC
-94.182.108.2 - IR - Aria Shatel PJSC
-89.47.202.1 - IR - Amir Hosein Maaref
-89.47.202.2 - IR - Amir Hosein Maaref
-94.182.106.1 - IR - SHATEL Network
-94.182.106.2 - IR - SHATEL Network
-185.126.14.1 - IR - PTE Network
-185.126.14.2 - IR - PTE Network
-37.32.5.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-37.32.5.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
 193.151.149.1 - IR - IR-AT
 193.151.149.2 - IR - IR-AT
-188.121.104.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-188.121.104.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-78.39.57.1 - IR - Respina Networks & Beyond PJSC
-78.39.57.2 - IR - Respina Networks & Beyond PJSC
-85.133.195.1 - IR - Mehrdad Roshanaei
-85.133.195.2 - IR - Mehrdad Roshanaei
-193.107.48.1 - IR - Chakavak Pardazesh Hooshmand Alborz
-193.107.48.2 - IR - Chakavak Pardazesh Hooshmand Alborz
-5.160.46.1 - IR - Respina Networks & Beyond PJSC
-5.160.46.2 - IR - Respina Networks & Beyond PJSC
-77.237.73.1 - IR - Toesegaran Shabakeh Arseh Novin Ltd
-77.237.73.2 - IR - Toesegaran Shabakeh Arseh Novin Ltd
+185.143.233.1 - IR - ANYCAST
+185.143.233.2 - IR - ANYCAST
+81.90.147.1 - IR - Afranet Co
+81.90.147.2 - IR - Afranet Co
+194.5.178.1 - IR - Javid Berbid Mamasani Information Technology Company PJS
+194.5.178.2 - IR - Javid Berbid Mamasani Information Technology Company PJS
+79.127.69.1 - IR - Asiatech Data Transmission company
+79.127.69.2 - IR - Asiatech Data Transmission company
+185.73.0.1 - IR - SHATEL Network
+185.73.0.2 - IR - SHATEL Network
+31.40.4.1 - IR - Negah Roshan Pars Company
+31.40.4.2 - IR - Negah Roshan Pars Company
+185.211.59.1 - IR - Mahdiar Rafiee
+185.211.59.2 - IR - Mahdiar Rafiee
+62.60.219.1 - IR - Mizban Dadeh Iranian Co. (Ltd)
+62.60.219.2 - IR - Mizban Dadeh Iranian Co. (Ltd)
+85.133.202.1 - IR - FanAvaran Mihan Mizban PJSC
+85.133.202.2 - IR - FanAvaran Mihan Mizban PJSC
+178.239.145.1 - IR - Pars Abr Toseeh Ertebatat Company
+178.239.145.2 - IR - Pars Abr Toseeh Ertebatat Company
+2.189.175.1 - IR - Nimadd
+2.189.175.2 - IR - Nimadd
+2.189.59.1 - IR - Information Technology Company
+2.189.59.2 - IR - Information Technology Company
+95.38.197.1 - IR - Atrin Information & Communications Technology Company PJS
+95.38.197.2 - IR - Atrin Information & Communications Technology Company PJS
+31.14.114.1 - IR - Afranet Co
+31.14.114.2 - IR - Afranet Co
+94.182.104.1 - IR - SHATEL Network
+94.182.104.2 - IR - SHATEL Network
+185.73.3.1 - IR - SHATEL Network
+185.73.3.2 - IR - SHATEL Network
+95.38.210.1 - IR - Respina Networks & Beyond PJSC
+95.38.210.2 - IR - Respina Networks & Beyond PJSC
 185.143.234.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
 185.143.234.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-94.182.222.1 - IR - SHATEL Network
-94.182.222.2 - IR - SHATEL Network
+193.151.133.1 - IR - Asre Dadeha Asiatech
+193.151.133.2 - IR - Asre Dadeha Asiatech
+79.175.145.1 - IR - AFranet Co
+79.175.145.2 - IR - AFranet Co
+185.206.95.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+185.206.95.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+85.198.9.1 - IR - Asre Dadeha Asiatech
+85.198.9.2 - IR - Asre Dadeha Asiatech
+92.114.50.1 - IR - Amir Hosein Maaref
+92.114.50.2 - IR - Amir Hosein Maaref
+193.107.48.1 - IR - Chakavak Pardazesh Hooshmand Alborz
+193.107.48.2 - IR - Chakavak Pardazesh Hooshmand Alborz
 78.109.198.1 - IR - Afranet Co
+78.109.198.2 - IR - Afranet Co
+185.113.10.1 - IR - Web Gostaran Shaina Shiraz LLC
+185.113.10.2 - IR - Web Gostaran Shaina Shiraz LLC
