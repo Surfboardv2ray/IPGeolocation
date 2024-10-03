@@ -1,58 +1,30 @@
-85.198.9.1 - IR - Asre Dadeha Asiatech
-85.198.9.2 - IR - Asre Dadeha Asiatech
-212.80.18.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
-212.80.18.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-2.189.59.1 - IR - Information Technology Company
-2.189.59.2 - IR - Information Technology Company
-62.60.219.1 - IR - Mizban Dadeh Iranian Co. (Ltd)
-62.60.219.2 - IR - Mizban Dadeh Iranian Co. (Ltd)
-87.248.130.1 - KZ - Pars Shabakeh Azarakhsh LLC
-87.248.130.2 - KZ - Pars Shabakeh Azarakhsh LLC
-178.239.145.1 - IR - Pars Abr Toseeh Ertebatat Company
-178.239.145.2 - IR - Pars Abr Toseeh Ertebatat Company
-185.73.0.1 - IR - SHATEL Network
-185.73.0.2 - IR - SHATEL Network
-31.14.114.1 - IR - Afranet Co
-31.14.114.2 - IR - Afranet Co
-62.60.212.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-62.60.212.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-85.133.202.1 - IR - FanAvaran Mihan Mizban PJSC
-85.133.202.2 - IR - FanAvaran Mihan Mizban PJSC
-193.151.149.1 - IR - IR-AT
-193.151.149.2 - IR - IR-AT
-193.107.48.1 - IR - Chakavak Pardazesh Hooshmand Alborz
-193.107.48.2 - IR - Chakavak Pardazesh Hooshmand Alborz
-185.211.59.1 - IR - Mahdiar Rafiee
-185.211.59.2 - IR - Mahdiar Rafiee
-85.133.195.1 - IR - Mehrdad Roshanaei
-85.133.195.2 - IR - Mehrdad Roshanaei
-89.42.137.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
-89.42.137.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-185.143.233.1 - IR - ANYCAST
-185.143.233.2 - IR - ANYCAST
-81.12.27.1 - IR - Dade Pardazi Mobinhost Co LTD
-81.12.27.2 - IR - Dade Pardazi Mobinhost Co LTD
-94.182.104.1 - IR - SHATEL Network
-94.182.104.2 - IR - SHATEL Network
-94.182.223.1 - IR - SHATEL Network
-94.182.223.2 - IR - SHATEL Network
-92.114.50.1 - IR - Amir Hosein Maaref
-92.114.50.2 - IR - Amir Hosein Maaref
 95.38.210.1 - IR - Respina Networks & Beyond PJSC
 95.38.210.2 - IR - Respina Networks & Beyond PJSC
-31.40.4.1 - IR - Negah Roshan Pars Company
-31.40.4.2 - IR - Negah Roshan Pars Company
-194.5.178.1 - IR - Javid Berbid Mamasani Information Technology Company PJS
-194.5.178.2 - IR - Javid Berbid Mamasani Information Technology Company PJS
-185.113.10.1 - IR - Web Gostaran Shaina Shiraz LLC
-185.113.10.2 - IR - Web Gostaran Shaina Shiraz LLC
-185.206.95.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-185.206.95.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-81.12.32.1 - IR - Pars Abr Toseeh Ertebatat Company
-81.12.32.2 - IR - Pars Abr Toseeh Ertebatat Company
+188.121.118.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+188.121.118.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+193.151.143.1 - IR - Asre Dadeha Asiatech
+193.151.143.2 - IR - Asre Dadeha Asiatech
+94.182.95.1 - IR - Aria Shatel Company Ltd
+94.182.95.2 - IR - Aria Shatel Company Ltd
+185.212.194.1 - IR - Taknet Afzar Aftab PJSC
+185.212.194.2 - IR - Taknet Afzar Aftab PJSC
+62.60.173.1 - IR - Laser IDC
+62.60.173.2 - IR - Laser IDC
+212.80.18.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
+212.80.18.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
+46.245.70.1 - IR - Asiatech Data Transmission company
+46.245.70.2 - IR - Asiatech Data Transmission company
+81.12.27.1 - IR - Dade Pardazi Mobinhost Co LTD
+81.12.27.2 - IR - Dade Pardazi Mobinhost Co LTD
 185.143.234.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
 185.143.234.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-193.151.133.1 - IR - Asre Dadeha Asiatech
-193.151.133.2 - IR - Asre Dadeha Asiatech
-5.160.132.1 - IR - Petiak
-5.160.132.2 - IR - Petiak
+87.107.162.1 - IR - Toesegaran Shabakeh Arseh Novin Ltd
+87.107.162.2 - IR - Toesegaran Shabakeh Arseh Novin Ltd
+95.38.132.1 - IR - Respina Networks & Beyond PJSC
+95.38.132.2 - IR - Respina Networks & Beyond PJSC
+79.132.192.1 - IR - Engineering company Morva System Plc.
+79.132.192.2 - IR - Engineering company Morva System Plc.
+185.143.233.1 - IR - ANYCAST
+185.143.233.2 - IR - ANYCAST
+185.206.92.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+185.206.92.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
