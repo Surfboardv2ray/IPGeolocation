@@ -1,36 +1,81 @@
-89.44.113.1 - IR - LASERCO
-89.44.113.2 - IR - LASERCO
-172.67.206.1 - CA - Cloudflare, Inc.
-172.67.206.2 - CA - Cloudflare, Inc.
-78.109.194.1 - IR - Afranet Co
-78.109.194.2 - IR - Afranet Co
-194.59.5.1 - KZ - Cloudflare London, LLC
-194.59.5.2 - KZ - Cloudflare London, LLC
-188.121.118.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-188.121.118.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-188.114.99.1 - US - Cloudflare, Inc.
-188.114.99.2 - US - Cloudflare, Inc.
-85.198.10.1 - IR - Asre Dadeha Asiatech
-85.198.10.2 - IR - Asre Dadeha Asiatech
-104.26.12.1 - CA - Cloudflare, Inc.
-104.26.12.2 - CA - Cloudflare, Inc.
-85.9.120.1 - IR - PISHGAMAN
-85.9.120.2 - IR - PISHGAMAN
-45.135.235.1 - UA - Sipcom Ltd.
-45.135.235.2 - UA - Sipcom Ltd.
-79.175.176.1 - IR - AFranet Co
-79.175.176.2 - IR - AFranet Co
-81.12.27.1 - IR - Dade Pardazi Mobinhost Co LTD
-81.12.27.2 - IR - Dade Pardazi Mobinhost Co LTD
-104.21.36.1 - CA - Cloudflare, Inc.
-104.21.36.2 - CA - Cloudflare, Inc.
-172.67.223.1 - CA - Cloudflare, Inc.
-172.67.223.2 - CA - Cloudflare, Inc.
-62.60.212.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-62.60.212.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-95.38.200.1 - IR - Respina Networks & Beyond PJSC
-95.38.200.2 - IR - Respina Networks & Beyond PJSC
-185.148.106.1 - US - Cloudflare London, LLC
-185.148.106.2 - US - Cloudflare London, LLC
-85.9.123.1 - IR - PISHGAMAN
-85.9.123.2 - IR - PISHGAMAN
+104.17.173.1 - US - American Registry Internet Numbers
+104.17.173.2 - US - American Registry Internet Numbers
+104.24.208.1 - US - American Registry Internet Numbers
+104.24.208.2 - US - American Registry Internet Numbers
+104.25.189.1 - US - American Registry Internet Numbers
+104.25.189.2 - US - American Registry Internet Numbers
+104.27.80.1 - US - American Registry Internet Numbers
+104.27.80.2 - US - American Registry Internet Numbers
+104.19.111.1 - US - American Registry Internet Numbers
+104.19.111.2 - US - American Registry Internet Numbers
+104.19.127.1 - US - American Registry Internet Numbers
+104.19.127.2 - US - American Registry Internet Numbers
+104.22.8.1 - US - American Registry Internet Numbers
+104.22.8.2 - US - American Registry Internet Numbers
+104.27.37.1 - US - American Registry Internet Numbers
+104.27.37.2 - US - American Registry Internet Numbers
+104.20.14.1 - US - American Registry Internet Numbers
+104.20.14.2 - US - American Registry Internet Numbers
+104.18.92.1 - US - American Registry Internet Numbers
+104.18.92.2 - US - American Registry Internet Numbers
+104.18.65.1 - US - American Registry Internet Numbers
+104.18.65.2 - US - American Registry Internet Numbers
+104.19.209.1 - US - American Registry Internet Numbers
+104.19.209.2 - US - American Registry Internet Numbers
+104.19.39.1 - US - American Registry Internet Numbers
+104.19.39.2 - US - American Registry Internet Numbers
+104.17.250.1 - US - American Registry Internet Numbers
+104.17.250.2 - US - American Registry Internet Numbers
+104.21.87.1 - US - American Registry Internet Numbers
+104.21.87.2 - US - American Registry Internet Numbers
+104.17.209.1 - US - American Registry Internet Numbers
+104.17.209.2 - US - American Registry Internet Numbers
+104.16.28.1 - US - American Registry Internet Numbers
+104.16.28.2 - US - American Registry Internet Numbers
+104.19.148.1 - US - American Registry Internet Numbers
+104.19.148.2 - US - American Registry Internet Numbers
+104.21.14.1 - US - American Registry Internet Numbers
+104.21.14.2 - US - American Registry Internet Numbers
+104.20.245.1 - US - American Registry Internet Numbers
+104.20.245.2 - US - American Registry Internet Numbers
+104.17.64.1 - US - American Registry Internet Numbers
+104.17.64.2 - US - American Registry Internet Numbers
+104.19.200.1 - US - American Registry Internet Numbers
+104.19.200.2 - US - American Registry Internet Numbers
+104.21.192.1 - US - American Registry Internet Numbers
+104.16.178.1 - US - American Registry Internet Numbers
+104.16.178.2 - US - American Registry Internet Numbers
+104.24.19.1 - US - American Registry Internet Numbers
+104.24.19.2 - US - American Registry Internet Numbers
+104.19.246.1 - US - American Registry Internet Numbers
+104.19.246.2 - US - American Registry Internet Numbers
+104.25.38.1 - US - American Registry Internet Numbers
+104.25.38.2 - US - American Registry Internet Numbers
+104.18.127.1 - US - American Registry Internet Numbers
+104.18.127.2 - US - American Registry Internet Numbers
+104.19.217.1 - US - American Registry Internet Numbers
+104.19.217.2 - US - American Registry Internet Numbers
+104.24.78.1 - US - American Registry Internet Numbers
+104.24.78.2 - US - American Registry Internet Numbers
+104.19.79.1 - US - American Registry Internet Numbers
+104.19.79.2 - US - American Registry Internet Numbers
+104.20.82.1 - US - American Registry Internet Numbers
+104.20.82.2 - US - American Registry Internet Numbers
+104.19.6.1 - US - American Registry Internet Numbers
+104.19.6.2 - US - American Registry Internet Numbers
+104.25.46.1 - US - American Registry Internet Numbers
+104.25.46.2 - US - American Registry Internet Numbers
+104.21.93.1 - US - American Registry Internet Numbers
+104.21.93.2 - US - American Registry Internet Numbers
+104.18.64.1 - US - American Registry Internet Numbers
+104.18.64.2 - US - American Registry Internet Numbers
+104.18.171.1 - US - American Registry Internet Numbers
+104.18.171.2 - US - American Registry Internet Numbers
+104.27.120.1 - US - American Registry Internet Numbers
+104.27.120.2 - US - American Registry Internet Numbers
+104.19.56.1 - US - American Registry Internet Numbers
+104.19.56.2 - US - American Registry Internet Numbers
+104.22.16.1 - US - American Registry Internet Numbers
+104.22.16.2 - US - American Registry Internet Numbers
+104.24.240.1 - US - American Registry Internet Numbers
+104.24.240.2 - US - American Registry Internet Numbers
