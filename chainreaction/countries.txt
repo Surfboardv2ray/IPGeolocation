@@ -1,90 +1,128 @@
-134.122.100.1 - GB - DigitalOcean, LLC
-134.122.100.2 - GB - DigitalOcean, LLC
-5.181.171.1 - US - Fast Servers (Pty) Ltd
-5.181.171.2 - US - Fast Servers (Pty) Ltd
-85.133.196.1 - IR - Ehsan Hosseini Sabzevar
-85.133.196.2 - IR - Ehsan Hosseini Sabzevar
-188.212.96.1 - IR - Dadeh Gostar Sina Shiraz PLC
-188.212.96.2 - IR - Dadeh Gostar Sina Shiraz PLC
-193.151.136.1 - IR - Asre Dadeha Asiatech
-193.151.136.2 - IR - Asre Dadeha Asiatech
-62.60.156.1 - FR - Aeza International LTD
-62.60.156.2 - FR - Aeza International LTD
-81.28.12.1 - NL - G-Core Labs S.A
-81.28.12.2 - NL - G-Core Labs S.A
-85.133.250.1 - IR - Pars Abr Toseeh Ertebatat Company
-85.133.250.2 - IR - Pars Abr Toseeh Ertebatat Company
-45.94.213.1 - IR - Padidar Technology PJSC
-45.94.213.2 - IR - Padidar Technology PJSC
-102.177.176.1 - DE - Gerondata LTD
-102.177.176.2 - DE - Gerondata LTD
-54.255.127.1 - SG - Amazon Technologies Inc.
-54.255.127.2 - SG - Amazon Technologies Inc.
-99.199.73.1 - CA - TELUS Communications Inc
-99.199.73.2 - CA - TELUS Communications Inc
-89.44.113.1 - IR - LASERCO
-89.44.113.2 - IR - LASERCO
-131.145.22.1 - GB - Microsoft Corporation
-131.145.22.2 - GB - Microsoft Corporation
-62.60.207.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-62.60.207.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-151.101.66.1 - US - Fastly, Inc.
-151.101.66.2 - US - Fastly, Inc.
-151.101.192.1 - US - Fastly, Inc.
-151.101.192.2 - US - Fastly, Inc.
-62.220.127.1 - IR - Dade Pardazi Mobinhost Co LTD
-62.220.127.2 - IR - Dade Pardazi Mobinhost Co LTD
-62.60.176.1 - AE - aeza
-62.60.176.2 - AE - aeza
-195.28.169.1 - IR - Netafraz Iranian Ltd.
-195.28.169.2 - IR - Netafraz Iranian Ltd.
-85.198.9.1 - IR - Asre Dadeha Asiatech
-85.198.9.2 - IR - Asre Dadeha Asiatech
-104.24.56.1 - CA - Cloudflare, Inc.
-104.24.56.2 - CA - Cloudflare, Inc.
-46.38.149.1 - IR - Peyman Ertebatat Pouya Company (Ltd)
-46.38.149.2 - IR - Peyman Ertebatat Pouya Company (Ltd)
+85.9.101.1 - IR - PISHGAMAN
+85.9.101.2 - IR - PISHGAMAN
+81.12.34.1 - IR - Pars Abr Toseeh Ertebatat Company
+81.12.34.2 - IR - Pars Abr Toseeh Ertebatat Company
 151.234.162.1 - IR - Iran Telecommunication Company PJS
 151.234.162.2 - IR - Iran Telecommunication Company PJS
 185.97.119.1 - IR - AbrArvan
 185.97.119.2 - IR - AbrArvan
-78.157.49.1 - IR - Dade Samane Fanava Company
-78.157.49.2 - IR - Dade Samane Fanava Company
-87.107.153.1 - IR - Dade Pardazi Mobinhost Co LTD
-87.107.153.2 - IR - Dade Pardazi Mobinhost Co LTD
-151.101.3.1 - US - Fastly, Inc.
-151.101.3.2 - US - Fastly, Inc.
-193.142.30.1 - IR - Batterflyai Media ltd.
-193.142.30.2 - IR - Batterflyai Media ltd.
-185.133.125.1 - IR - Iran Telecommunication Company PJS
-185.133.125.2 - IR - Iran Telecommunication Company PJS
-46.38.146.1 - IR - Peyman Ertebatat Pouya Company (Ltd)
-46.38.146.2 - IR - Peyman Ertebatat Pouya Company (Ltd)
-85.9.123.1 - IR - PISHGAMAN
-85.9.123.2 - IR - PISHGAMAN
+185.143.232.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+185.143.232.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
 46.38.148.1 - IR - Azma
 46.38.148.2 - IR - Azma
-109.122.253.1 - IR - Respina Networks Beyond PJSC
-109.122.253.2 - IR - Respina Networks Beyond PJSC
-185.112.32.1 - IR - Asiatech Data Transmission company
-185.112.32.2 - IR - Asiatech Data Transmission company
-85.133.194.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-85.133.194.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-104.17.147.1 - CA - Cloudflare, Inc.
-104.17.147.2 - CA - Cloudflare, Inc.
-62.60.177.1 - AE - aeza
-62.60.177.2 - AE - aeza
-109.95.67.1 - IR - Negin Asia Co
-109.95.67.2 - IR - Negin Asia Co
+62.60.159.1 - SE - Aeza International LTD
+62.60.159.2 - SE - Aeza International LTD
+87.236.38.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+87.236.38.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+85.198.23.1 - IR - ASIATECH
+85.198.23.2 - IR - ASIATECH
+193.151.133.1 - IR - Asre Dadeha Asiatech
+193.151.133.2 - IR - Asre Dadeha Asiatech
+193.142.30.1 - IR - Batterflyai Media ltd.
+193.142.30.2 - IR - Batterflyai Media ltd.
+46.38.146.1 - IR - Peyman Ertebatat Pouya Company (Ltd)
+46.38.146.2 - IR - Peyman Ertebatat Pouya Company (Ltd)
+185.58.242.1 - IR - TSTOnline Network
+185.58.242.2 - IR - TSTOnline Network
+5.144.132.1 - IR - Hostiran Network
+5.144.132.2 - IR - Hostiran Network
 212.16.86.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
 212.16.86.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-151.101.194.1 - US - Fastly, Inc.
-151.101.194.2 - US - Fastly, Inc.
-185.124.175.1 - IR - SADAFI
-185.124.175.2 - IR - SADAFI
 81.12.96.1 - IR - Respina Networks & Beyond PJSC
 81.12.96.2 - IR - Respina Networks & Beyond PJSC
+81.12.92.1 - IR - Shabakieh Isfahan Co PJSC
+81.12.92.2 - IR - Shabakieh Isfahan Co PJSC
+78.157.49.1 - IR - Dade Samane Fanava Company
+78.157.49.2 - IR - Dade Samane Fanava Company
+185.124.175.1 - IR - SADAFI
+185.124.175.2 - IR - SADAFI
+2.188.224.1 - IR - Respina Networks & Beyond PJSC
+2.188.224.2 - IR - Respina Networks & Beyond PJSC
+62.60.207.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+62.60.207.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+217.114.40.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+217.114.40.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+85.9.123.1 - IR - PISHGAMAN
+85.9.123.2 - IR - PISHGAMAN
+81.29.255.1 - IR - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
+81.29.255.2 - IR - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
+85.9.97.1 - IR - PISHGAMAN
+85.9.97.2 - IR - PISHGAMAN
+81.12.35.1 - IR - Pars Abr Toseeh Ertebatat Company
+81.12.35.2 - IR - Pars Abr Toseeh Ertebatat Company
+62.60.204.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+62.60.204.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+217.60.236.1 - IR - Iranian Server Processing Limited Liability Company
+217.60.236.2 - IR - Iranian Server Processing Limited Liability Company
+185.215.228.1 - IR - Respina Networks & Beyond PJSC
+185.215.228.2 - IR - Respina Networks & Beyond PJSC
+84.47.234.1 - IR - Iran Telecommunication Company PJS
+84.47.234.2 - IR - Iran Telecommunication Company PJS
+193.151.137.1 - IR - Asre Dadeha Asiatech
+193.151.137.2 - IR - Asre Dadeha Asiatech
+94.101.191.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+94.101.191.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+79.127.69.1 - IR - Asiatech Data Transmission company
+79.127.69.2 - IR - Asiatech Data Transmission company
+46.38.149.1 - IR - Peyman Ertebatat Pouya Company (Ltd)
+46.38.149.2 - IR - Peyman Ertebatat Pouya Company (Ltd)
+85.133.250.1 - IR - Pars Abr Toseeh Ertebatat Company
+85.133.250.2 - IR - Pars Abr Toseeh Ertebatat Company
+79.175.129.1 - IR - AFranet Co
+79.175.129.2 - IR - AFranet Co
+2.144.2.1 - IR - Iran Cell Service and Communication Company
+2.144.2.2 - IR - Iran Cell Service and Communication Company
+87.107.153.1 - IR - Dade Pardazi Mobinhost Co LTD
+87.107.153.2 - IR - Dade Pardazi Mobinhost Co LTD
+84.47.235.1 - IR - Iran Telecommunication Company PJS
+84.47.235.2 - IR - Iran Telecommunication Company PJS
+94.101.177.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+94.101.177.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
 2.144.4.1 - IR - Iran Cell Service and Communication Company
 2.144.4.2 - IR - Iran Cell Service and Communication Company
-217.60.38.1 - JP - NTT America, Inc.
-217.60.38.2 - JP - NTT America, Inc.
+5.159.49.1 - IR - Web Dadeh Paydar
+5.159.49.2 - IR - Web Dadeh Paydar
+178.239.149.1 - IR - Respina Networks & Beyond PJSC
+178.239.149.2 - IR - Respina Networks & Beyond PJSC
+46.38.150.1 - IR - Azma
+46.38.150.2 - IR - Azma
+185.215.231.1 - IR - Pars Abr Toseeh Ertebatat Company
+185.215.231.2 - IR - Pars Abr Toseeh Ertebatat Company
+62.60.222.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
+62.60.222.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
+188.212.96.1 - IR - Dadeh Gostar Sina Shiraz PLC
+188.212.96.2 - IR - Dadeh Gostar Sina Shiraz PLC
+45.94.213.1 - IR - Padidar Technology PJSC
+45.94.213.2 - IR - Padidar Technology PJSC
+85.9.125.1 - IR - PISHGAMAN
+85.9.125.2 - IR - PISHGAMAN
+78.39.9.1 - IR - Iran Telecommunication Company PJS
+78.39.9.2 - IR - Iran Telecommunication Company PJS
+185.143.235.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+185.143.235.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+109.122.253.1 - IR - Respina Networks Beyond PJSC
+109.122.253.2 - IR - Respina Networks Beyond PJSC
+185.143.233.1 - IR - ANYCAST
+185.143.233.2 - IR - ANYCAST
+87.236.215.1 - IR - Pars Shabakeh Azarakhsh LLC
+87.236.215.2 - IR - Pars Shabakeh Azarakhsh LLC
+185.49.105.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+185.49.105.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+85.198.9.1 - IR - Asre Dadeha Asiatech
+85.198.9.2 - IR - Asre Dadeha Asiatech
+37.32.41.1 - IR - Amir Mohammad Masoudi
+37.32.41.2 - IR - Amir Mohammad Masoudi
+85.133.194.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+85.133.194.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+85.133.202.1 - IR - FanAvaran Mihan Mizban PJSC
+85.133.202.2 - IR - FanAvaran Mihan Mizban PJSC
+195.182.38.1 - IR - Padideh Sazan Poshtvar Co. PJS
+195.182.38.2 - IR - Padideh Sazan Poshtvar Co. PJS
+185.133.125.1 - IR - Iran Telecommunication Company PJS
+185.133.125.2 - IR - Iran Telecommunication Company PJS
+194.145.119.1 - IR - Iranian Server Processing Limited Liability Company
+194.145.119.2 - IR - Iranian Server Processing Limited Liability Company
+79.127.70.1 - IR - Asiatech Data Transmission company
+79.127.70.2 - IR - Asiatech Data Transmission company
+85.133.196.1 - IR - Ehsan Hosseini Sabzevar
+85.133.196.2 - IR - Ehsan Hosseini Sabzevar
