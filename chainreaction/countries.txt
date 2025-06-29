@@ -1,78 +1,42 @@
-213.176.0.1 - IR - GeniusMind S.A.
-213.176.0.2 - IR - GeniusMind S.A.
-31.58.239.1 - IR - Rasaneh Avabarid Private Joint Stock Company
-31.58.239.2 - IR - Rasaneh Avabarid Private Joint Stock Company
-85.133.215.1 - IR - Abr Ayande Iranian Co. (Private Joint Stock)
-85.133.215.2 - IR - Abr Ayande Iranian Co. (Private Joint Stock)
-79.175.188.1 - IR - AFranet Co
-79.175.188.2 - IR - AFranet Co
-217.114.40.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-217.114.40.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-5.198.168.1 - IR - Iran Telecommunication Company PJS
-5.198.168.2 - IR - Iran Telecommunication Company PJS
-109.122.250.1 - IR - Nahor
-109.122.250.2 - IR - Nahor
-78.109.200.1 - IR - Afranet Co
-78.109.200.2 - IR - Afranet Co
-37.32.20.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-37.32.20.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-62.60.214.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-62.60.214.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-81.12.32.1 - IR - Pars Abr Toseeh Ertebatat Company
-81.12.32.2 - IR - Pars Abr Toseeh Ertebatat Company
-91.99.194.1 - IR - Parsonline
-91.99.194.2 - IR - Parsonline
-95.38.246.1 - IR - Respina Networks & Beyond PJSC
-95.38.246.2 - IR - Respina Networks & Beyond PJSC
-185.141.107.1 - IR - Sefroyek Pardaz Engineering PJSC
-185.141.107.2 - IR - Sefroyek Pardaz Engineering PJSC
-193.111.235.1 - IR - Integhal Dadeh Araz Shomal Company PJSC
-193.111.235.2 - IR - Integhal Dadeh Araz Shomal Company PJSC
-185.112.32.1 - IR - Asiatech Data Transmission company
-185.112.32.2 - IR - Asiatech Data Transmission company
-185.243.49.1 - IR - Toloe Rayaneh Loghman Educational and Cultural Co
-185.243.49.2 - IR - Toloe Rayaneh Loghman Educational and Cultural Co
-31.58.237.1 - IR - Giti Secure Cloud LLC
-31.58.237.2 - IR - Giti Secure Cloud LLC
-217.60.236.1 - IR - Iranian Server Processing Limited Liability Company
-217.60.236.2 - IR - Iranian Server Processing Limited Liability Company
-45.131.4.1 - IR - Cloudflare London, LLC
-45.131.4.2 - IR - Cloudflare London, LLC
-91.99.207.1 - IR - Parsonline
-91.99.207.2 - IR - Parsonline
-195.190.144.1 - IR - Nahor Hadish Design and Architecture Co
-195.190.144.2 - IR - Nahor Hadish Design and Architecture Co
-185.143.235.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-185.143.235.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-46.38.144.1 - IR - Peyman Ertebatat Pouya Company (Ltd)
-46.38.144.2 - IR - Peyman Ertebatat Pouya Company (Ltd)
-185.201.49.1 - IR - Amir Hosein Maaref
-185.201.49.2 - IR - Amir Hosein Maaref
-85.198.23.1 - IR - ASIATECH
-85.198.23.2 - IR - ASIATECH
-185.79.158.1 - IR - Iran Telecommunication Company PJS
-185.79.158.2 - IR - Iran Telecommunication Company PJS
-193.24.120.1 - IR - Web Dadeh Paydar Co (Ltd)
-193.24.120.2 - IR - Web Dadeh Paydar Co (Ltd)
-81.12.30.1 - IR - Dade Pardazi Mobinhost Co LTD
-81.12.30.2 - IR - Dade Pardazi Mobinhost Co LTD
-85.9.120.1 - IR - PISHGAMAN
-85.9.120.2 - IR - PISHGAMAN
-91.99.162.1 - DE - Parsonline
-91.99.162.2 - DE - Parsonline
-185.206.92.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-185.206.92.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-193.141.126.1 - IR - Green Web Samaneh Novin PJSC
-193.141.126.2 - IR - Green Web Samaneh Novin PJSC
-94.182.128.1 - IR - SHATEL Network
-94.182.128.2 - IR - SHATEL Network
-91.223.187.1 - IR - Web Dadeh Paydar Co (Ltd)
-91.223.187.2 - IR - Web Dadeh Paydar Co (Ltd)
-188.212.97.1 - IR - Ali Monfared
-188.212.97.2 - IR - Ali Monfared
-84.47.233.1 - IR - Iran Telecommunication Company PJS
-84.47.233.2 - IR - Iran Telecommunication Company PJS
-37.152.178.1 - IR - AbrArvan
-37.152.178.2 - IR - AbrArvan
-81.12.96.1 - IR - Respina Networks & Beyond PJSC
-81.12.96.2 - IR - Respina Networks & Beyond PJSC
+81.29.255.1 - IR - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
+81.29.255.2 - IR - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
+172.67.204.1 - CA - Cloudflare, Inc.
+172.67.204.2 - CA - Cloudflare, Inc.
+151.101.130.1 - US - Fastly, Inc.
+151.101.130.2 - US - Fastly, Inc.
+46.100.13.1 - IR - Iran Telecommunication Company PJS
+46.100.13.2 - IR - Iran Telecommunication Company PJS
+172.64.80.1 - CA - Cloudflare, Inc.
+172.64.80.2 - CA - Cloudflare, Inc.
+151.101.64.1 - US - Fastly, Inc.
+151.101.64.2 - US - Fastly, Inc.
+151.101.3.1 - US - Fastly, Inc.
+151.101.3.2 - US - Fastly, Inc.
+104.17.147.1 - CA - Cloudflare, Inc.
+104.17.147.2 - CA - Cloudflare, Inc.
+45.32.233.1 - NL - Choopa
+45.32.233.2 - NL - Choopa
+104.16.0.1 - CA - Cloudflare, Inc.
+104.16.0.2 - CA - Cloudflare, Inc.
+2.144.4.1 - IR - Iran Cell Service and Communication Company
+2.144.4.2 - IR - Iran Cell Service and Communication Company
+89.42.211.1 - IR - Netmihan Communication Company Ltd
+89.42.211.2 - IR - Netmihan Communication Company Ltd
+165.232.69.1 - DE - DigitalOcean, LLC
+165.232.69.2 - DE - DigitalOcean, LLC
+102.177.189.1 - GB - Cloudflare London, LLC
+102.177.189.2 - GB - Cloudflare London, LLC
+151.101.2.1 - US - Fastly, Inc.
+151.101.2.2 - US - Fastly, Inc.
+151.101.0.1 - US - Fastly, Inc.
+151.101.0.2 - US - Fastly, Inc.
+192.200.160.1 - US - Bigcommerce Inc.
+192.200.160.2 - US - Bigcommerce Inc.
+188.40.181.1 - DE - Hetzner Online GmbH
+188.40.181.2 - DE - Hetzner Online GmbH
+5.180.52.1 - NL - Fast GEO Hosting S.R.L.
+5.180.52.2 - NL - Fast GEO Hosting S.R.L.
+104.17.148.1 - CA - Cloudflare, Inc.
+104.17.148.2 - CA - Cloudflare, Inc.
+85.133.206.1 - IR - Atrin Information & Communications Technology Company PJS
+85.133.206.2 - IR - Atrin Information & Communications Technology Company PJS
