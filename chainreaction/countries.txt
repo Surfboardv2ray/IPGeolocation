@@ -1,90 +1,46 @@
-192.200.160.1 - US - Bigcommerce Inc.
-192.200.160.2 - US - Bigcommerce Inc.
-88.99.93.1 - DE - Hetzner Online GmbH
-88.99.93.2 - DE - Hetzner Online GmbH
-104.22.22.1 - CA - Cloudflare, Inc.
-104.22.22.2 - CA - Cloudflare, Inc.
-104.26.14.1 - CA - Cloudflare, Inc.
-104.26.14.2 - CA - Cloudflare, Inc.
-151.101.2.1 - US - Fastly, Inc.
-151.101.2.2 - US - Fastly, Inc.
-104.26.15.1 - CA - Cloudflare, Inc.
-104.26.15.2 - CA - Cloudflare, Inc.
-172.67.67.1 - CA - Cloudflare, Inc.
-172.67.67.2 - CA - Cloudflare, Inc.
-5.160.144.1 - IR - Pars Abr Toseeh Ertebatat Company
-5.160.144.2 - IR - Pars Abr Toseeh Ertebatat Company
-2.144.4.1 - IR - Iran Cell Service and Communication Company
-2.144.4.2 - IR - Iran Cell Service and Communication Company
-165.232.69.1 - DE - DigitalOcean, LLC
-165.232.69.2 - DE - DigitalOcean, LLC
-104.21.112.1 - CA - Cloudflare, Inc.
-104.21.112.2 - CA - Cloudflare, Inc.
-185.146.173.1 - SE - Cloudflare, Inc.
-185.146.173.2 - SE - Cloudflare, Inc.
-172.67.60.1 - CA - Cloudflare, Inc.
-172.67.60.2 - CA - Cloudflare, Inc.
-162.159.129.1 - CA - Cloudflare, Inc.
-162.159.129.2 - CA - Cloudflare, Inc.
-134.175.197.1 - CN - Shenzhen Tencent Computer Systems Company Limited
-134.175.197.2 - CN - Shenzhen Tencent Computer Systems Company Limited
-172.67.204.1 - CA - Cloudflare, Inc.
-172.67.204.2 - CA - Cloudflare, Inc.
+85.9.96.1 - IR - PISHGAMAN
+85.9.96.2 - IR - PISHGAMAN
+2.188.224.1 - IR - Respina Networks & Beyond PJSC
+2.188.224.2 - IR - Respina Networks & Beyond PJSC
+62.60.163.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
+62.60.163.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
+185.215.228.1 - IR - Respina Networks & Beyond PJSC
+185.215.228.2 - IR - Respina Networks & Beyond PJSC
+103.233.9.1 - HK - Abcde Group Company Limited
+103.233.9.2 - HK - Abcde Group Company Limited
+188.212.98.1 - IR - Hamed Kavosh Vira Co.
+188.212.98.2 - IR - Hamed Kavosh Vira Co.
+185.133.125.1 - IR - Iran Telecommunication Company PJS
+185.133.125.2 - IR - Iran Telecommunication Company PJS
+94.182.136.1 - IR - RASANA
+94.182.136.2 - IR - RASANA
 89.44.113.1 - IR - LASERCO
 89.44.113.2 - IR - LASERCO
-104.16.241.1 - CA - Cloudflare, Inc.
-104.16.241.2 - CA - Cloudflare, Inc.
-151.101.194.1 - US - Fastly, Inc.
-151.101.194.2 - US - Fastly, Inc.
-104.16.0.1 - CA - Cloudflare, Inc.
-104.16.0.2 - CA - Cloudflare, Inc.
-46.245.76.1 - IR - Asiatech Data Transmission company
-46.245.76.2 - IR - Asiatech Data Transmission company
-102.177.189.1 - GB - Cloudflare London, LLC
-102.177.189.2 - GB - Cloudflare London, LLC
-51.79.102.1 - CA - OVH SAS
-51.79.102.2 - CA - OVH SAS
-46.100.13.1 - IR - Iran Telecommunication Company PJS
-46.100.13.2 - IR - Iran Telecommunication Company PJS
-104.18.26.1 - CA - Cloudflare, Inc.
-104.18.26.2 - CA - Cloudflare, Inc.
-85.133.206.1 - IR - Atrin Information & Communications Technology Company PJS
-85.133.206.2 - IR - Atrin Information & Communications Technology Company PJS
-172.66.46.1 - CA - Cloudflare, Inc.
-172.66.46.2 - CA - Cloudflare, Inc.
-57.129.24.1 - DE - OVH SAS
-57.129.24.2 - DE - OVH SAS
-172.66.137.1 - CA - Cloudflare, Inc.
-172.66.137.2 - CA - Cloudflare, Inc.
-5.180.52.1 - NL - Fast GEO Hosting S.R.L.
-5.180.52.2 - NL - Fast GEO Hosting S.R.L.
-81.12.30.1 - IR - Dade Pardazi Mobinhost Co LTD
-81.12.30.2 - IR - Dade Pardazi Mobinhost Co LTD
-199.34.230.1 - US - Weebly, Inc.
-199.34.230.2 - US - Weebly, Inc.
-172.67.49.1 - CA - Cloudflare, Inc.
-172.67.49.2 - CA - Cloudflare, Inc.
-104.21.23.1 - CA - Cloudflare, Inc.
-104.21.23.2 - CA - Cloudflare, Inc.
-172.67.62.1 - CA - Cloudflare, Inc.
-172.67.62.2 - CA - Cloudflare, Inc.
-45.32.233.1 - NL - Choopa
-45.32.233.2 - NL - Choopa
-172.67.128.1 - CA - Cloudflare, Inc.
-172.67.128.2 - CA - Cloudflare, Inc.
-104.17.148.1 - CA - Cloudflare, Inc.
-104.17.148.2 - CA - Cloudflare, Inc.
-104.17.147.1 - CA - Cloudflare, Inc.
-104.17.147.2 - CA - Cloudflare, Inc.
-151.101.3.1 - US - Fastly, Inc.
-151.101.3.2 - US - Fastly, Inc.
-172.67.17.1 - CA - Cloudflare, Inc.
-172.67.17.2 - CA - Cloudflare, Inc.
-151.101.64.1 - US - Fastly, Inc.
-151.101.64.2 - US - Fastly, Inc.
-89.42.211.1 - IR - Netmihan Communication Company Ltd
-89.42.211.2 - IR - Netmihan Communication Company Ltd
-91.99.176.1 - DE - Parsonline
-91.99.176.2 - DE - Parsonline
-104.19.223.1 - CA - Cloudflare, Inc.
-104.19.223.2 - CA - Cloudflare, Inc.
+45.131.4.1 - IR - Cloudflare London, LLC
+45.131.4.2 - IR - Cloudflare London, LLC
+185.124.175.1 - IR - SADAFI
+185.124.175.2 - IR - SADAFI
+46.245.66.1 - IR - Asiatech Data Transmission company
+46.245.66.2 - IR - Asiatech Data Transmission company
+95.38.38.1 - IR - Atrin Information & Communications Technology Company PJS
+95.38.38.2 - IR - Atrin Information & Communications Technology Company PJS
+212.86.94.1 - IR - Homaye Jahan Nama Co. ( Private Joint Stock)
+212.86.94.2 - IR - Homaye Jahan Nama Co. ( Private Joint Stock)
+87.248.152.1 - IR - Pars Shabakeh Azarakhsh
+87.248.152.2 - IR - Pars Shabakeh Azarakhsh
+5.160.197.1 - IR - Rasaneh Avabarid Private Joint Stock Company
+5.160.197.2 - IR - Rasaneh Avabarid Private Joint Stock Company
+193.151.132.1 - IR - Asre Dadeha Asiatech
+193.151.132.2 - IR - Asre Dadeha Asiatech
+91.99.143.1 - DE - ParsOnline Co.
+91.99.143.2 - DE - ParsOnline Co.
+193.24.120.1 - IR - Web Dadeh Paydar Co (Ltd)
+193.24.120.2 - IR - Web Dadeh Paydar Co (Ltd)
+193.228.169.1 - IR - Mizban Dadeh Pardis .Ltd
+193.228.169.2 - IR - Mizban Dadeh Pardis .Ltd
+212.80.9.1 - IR - Giti Secure Cloud LLC
+212.80.9.2 - IR - Giti Secure Cloud LLC
+45.159.148.1 - IR - Arshia Asadi
+45.159.148.2 - IR - Arshia Asadi
+185.118.15.1 - IR - GRS
+185.118.15.2 - IR - GRS
