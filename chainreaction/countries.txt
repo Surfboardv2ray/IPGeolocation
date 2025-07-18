@@ -1,40 +1,26 @@
-62.60.163.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
-62.60.163.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-185.215.228.1 - IR - Respina Networks & Beyond PJSC
-185.215.228.2 - IR - Respina Networks & Beyond PJSC
-2.189.85.1 - IR - Telecommunication Infrastructure Company
-2.189.85.2 - IR - Telecommunication Infrastructure Company
-78.109.193.1 - IR - Afranet Co
-78.109.193.2 - IR - Afranet Co
-62.60.192.1 - IR - FanAvaran Mihan Mizban PJSC
-62.60.192.2 - IR - FanAvaran Mihan Mizban PJSC
-91.99.234.1 - IR - Parsonline
-91.99.234.2 - IR - Parsonline
-95.128.196.1 - IR - Didehban Net Company PJS
-95.128.196.2 - IR - Didehban Net Company PJS
-79.127.70.1 - IR - Asiatech Data Transmission company
-79.127.70.2 - IR - Asiatech Data Transmission company
-37.32.42.1 - IR - Toloe Rayaneh Loghman Educational and Cultural Co.
-37.32.42.2 - IR - Toloe Rayaneh Loghman Educational and Cultural Co.
-185.49.105.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-185.49.105.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-87.236.212.1 - IR - Web Gostaran Shaina Shiraz LLC
-87.236.212.2 - IR - Web Gostaran Shaina Shiraz LLC
-45.131.4.1 - IR - Cloudflare London, LLC
-45.131.4.2 - IR - Cloudflare London, LLC
-95.38.140.1 - IR - Respina Networks & Beyond PJSC
-95.38.140.2 - IR - Respina Networks & Beyond PJSC
-94.232.170.1 - IR - Tebyan-e-Noor Cultural-Artistic Institute
-94.232.170.2 - IR - Tebyan-e-Noor Cultural-Artistic Institute
-37.202.239.1 - IR - SHATEL Network
-37.202.239.2 - IR - SHATEL Network
-87.236.38.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-87.236.38.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-212.16.86.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
-212.16.86.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-185.235.198.1 - IR - Toesegaran Shabakeh Arseh Novin Ltd
-185.235.198.2 - IR - Toesegaran Shabakeh Arseh Novin Ltd
+193.162.129.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+193.162.129.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+89.47.202.1 - IR - Amir Hosein Maaref
+89.47.202.2 - IR - Amir Hosein Maaref
+37.152.191.1 - IR - AbrArvan
+37.152.191.2 - IR - AbrArvan
+2.189.161.1 - IR - Respina Networks & Beyond PJSC
+2.189.161.2 - IR - Respina Networks & Beyond PJSC
+2.188.227.1 - IR - Telecommunication Infrastructure Company
+2.188.227.2 - IR - Telecommunication Infrastructure Company
 185.243.51.1 - IR - digitalvps ir
 185.243.51.2 - IR - digitalvps ir
-193.134.100.1 - IR - Asiatech Data Transmission company
-193.134.100.2 - IR - Asiatech Data Transmission company
+109.123.239.1 - SG - Contabo Asia Private Limited
+109.123.239.2 - SG - Contabo Asia Private Limited
+87.107.110.1 - IR - Dade Pardazi Mobinhost Co LTD
+87.107.110.2 - IR - Dade Pardazi Mobinhost Co LTD
+91.247.171.1 - IR - Sefroyek Pardaz Engineering PJSC
+91.247.171.2 - IR - Sefroyek Pardaz Engineering PJSC
+185.97.118.1 - IR - AbrArvan
+185.97.118.2 - IR - AbrArvan
+94.183.158.1 - IR - Aria Shatel PJSC
+94.183.158.2 - IR - Aria Shatel PJSC
+62.60.163.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
+62.60.163.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
+185.143.233.1 - IR - ANYCAST
+185.143.233.2 - IR - ANYCAST
