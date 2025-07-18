@@ -1,26 +1,30 @@
-193.162.129.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-193.162.129.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
-89.47.202.1 - IR - Amir Hosein Maaref
-89.47.202.2 - IR - Amir Hosein Maaref
-37.152.191.1 - IR - AbrArvan
-37.152.191.2 - IR - AbrArvan
 2.189.161.1 - IR - Respina Networks & Beyond PJSC
 2.189.161.2 - IR - Respina Networks & Beyond PJSC
-2.188.227.1 - IR - Telecommunication Infrastructure Company
-2.188.227.2 - IR - Telecommunication Infrastructure Company
-185.243.51.1 - IR - digitalvps ir
-185.243.51.2 - IR - digitalvps ir
-109.123.239.1 - SG - Contabo Asia Private Limited
-109.123.239.2 - SG - Contabo Asia Private Limited
-87.107.110.1 - IR - Dade Pardazi Mobinhost Co LTD
-87.107.110.2 - IR - Dade Pardazi Mobinhost Co LTD
-91.247.171.1 - IR - Sefroyek Pardaz Engineering PJSC
-91.247.171.2 - IR - Sefroyek Pardaz Engineering PJSC
-185.97.118.1 - IR - AbrArvan
-185.97.118.2 - IR - AbrArvan
+151.232.51.1 - IR - Iran Telecommunication Company PJS
+151.232.51.2 - IR - Iran Telecommunication Company PJS
 94.183.158.1 - IR - Aria Shatel PJSC
 94.183.158.2 - IR - Aria Shatel PJSC
-62.60.163.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
-62.60.163.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-185.143.233.1 - IR - ANYCAST
-185.143.233.2 - IR - ANYCAST
+62.60.192.1 - IR - FanAvaran Mihan Mizban PJSC
+62.60.192.2 - IR - FanAvaran Mihan Mizban PJSC
+5.202.12.1 - IR - Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
+5.202.12.2 - IR - Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
+188.212.98.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+188.212.98.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+93.126.50.1 - IR - Asmanfaraz Sepahan Company (P.J.S)
+93.126.50.2 - IR - Asmanfaraz Sepahan Company (P.J.S)
+193.151.141.1 - IR - IR-AT
+193.151.141.2 - IR - IR-AT
+84.47.233.1 - IR - Iran Telecommunication Company PJS
+84.47.233.2 - IR - Iran Telecommunication Company PJS
+89.44.240.1 - IR - FanAvaran Mihan Mizban PJSC
+89.44.240.2 - IR - FanAvaran Mihan Mizban PJSC
+89.44.242.1 - IR - Pars Abr Toseeh Ertebatat Company
+89.44.242.2 - IR - Pars Abr Toseeh Ertebatat Company
+185.243.51.1 - IR - Amir Mohammad Masoudi
+185.243.51.2 - IR - Amir Mohammad Masoudi
+94.182.83.1 - IR - Aria Shatel PJSC
+94.182.83.2 - IR - Aria Shatel PJSC
+5.159.49.1 - IR - Web Dadeh Paydar
+5.159.49.2 - IR - Web Dadeh Paydar
+185.4.31.1 - IR - Green Web Samaneh Novin' s
+185.4.31.2 - IR - Green Web Samaneh Novin' s
