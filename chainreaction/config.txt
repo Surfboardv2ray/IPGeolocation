@@ -1,4 +1,4 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#🏆46@oneclickvpnkeys
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#🏆46oneclickvpnkeys
 vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#🏆37@oneclickvpnkeys
 vmess://0654d64d-08bf-43e5-ad44-18a7d1a8d6f7@46.225.54.75:10410?encryption=auto&security=none&type=tcp#🛸71@oneclickvpnkeys
 vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=/&security=none&type=ws#👑3@oneclickvpnkeys
